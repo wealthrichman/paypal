@@ -1,2 +1,4 @@
 We want to perform a merge
 Git is great!!!
+We are learnin something new
+
