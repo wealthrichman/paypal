@@ -1,0 +1,2 @@
+We want to perform a merge
+Git is great!!!
